@@ -11,6 +11,10 @@ p {font-size: 16px;}
 .container-fluid {
   padding: 0px;
   padding-bottom: 70px;
+  background: #1d2026;
+  color: #fff
+  position: relative;
+
 }
 
 .container{
