@@ -9,7 +9,7 @@ p {font-size: 16px;}
 .margin {margin-bottom: 15px;}
 
 .container-fluid {
-  min-height: 100vh
+  min-height: 100%
   width: 100%
   background: #1d2026;
   color: #fff
